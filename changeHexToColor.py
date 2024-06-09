@@ -37,26 +37,28 @@ def hex_to_rgb(hex_color):
     hex_color = hex_color.lstrip('#')
     return tuple(int(hex_color[i:i+2], 16) for i in (0, 2, 4))
 
-# Function to calculate the hue of an RGB color
-def rgb_to_hue(rgb):
+# Function to calculate the hue and saturation of an RGB color
+def rgb_to_hue_saturation(rgb):
     r, g, b = [x / 255.0 for x in rgb]
     h, s, v = rgb_to_hsv(r, g, b)
-    return h
+    return h, s
 
-# Function to find the closest color name based on hue
+# Function to find the closest color name based on hue and saturation
 def closest_color_name(hex_color):
     try:
         target_rgb = hex_to_rgb(hex_color)
     except ValueError:
         return None
 
-    target_hue = rgb_to_hue(target_rgb)
+    target_hue, target_saturation = rgb_to_hue_saturation(target_rgb)
     
     min_diff = float('inf')
     closest_color = None
     for color_name, color_rgb in color_names.items():
-        color_hue = rgb_to_hue(color_rgb)
-        diff = abs(target_hue - color_hue)
+        color_hue, color_saturation = rgb_to_hue_saturation(color_rgb)
+        hue_diff = abs(target_hue - color_hue)
+        saturation_diff = abs(target_saturation - color_saturation)
+        diff = hue_diff + saturation_diff
         if diff < min_diff:
             min_diff = diff
             closest_color = color_name
@@ -74,3 +76,4 @@ for skull in skulls_data:
 # Save the updated JSON file
 with open('rise-of-skulls-updated.json', 'w') as file:
     json.dump(skulls_data, file, indent=4)
+
