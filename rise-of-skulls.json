@@ -513,7 +513,7 @@
             "Clothes": "Vampire",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -541,7 +541,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Pipe"
         }
     },
@@ -746,7 +746,7 @@
         "name": "Skulls #54",
         "attributes": {
             "Background": "#b499ff",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Brown Mohawk",
             "Clothes": "Orange Jersey",
             "Mouth": "",
@@ -1213,7 +1213,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -1717,7 +1717,7 @@
             "Clothes": "White Jersey",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -2417,7 +2417,7 @@
             "Clothes": "Biker",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -2949,7 +2949,7 @@
             "Clothes": "",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -5077,7 +5077,7 @@
             "Clothes": "Camo",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Gold Chain"
         }
     },
@@ -5539,7 +5539,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Pipe"
         }
     },
@@ -5721,7 +5721,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -5959,7 +5959,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -6015,7 +6015,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -6071,7 +6071,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -6127,7 +6127,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Cig"
         }
     },
@@ -6267,7 +6267,7 @@
             "Clothes": "Black",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -6309,7 +6309,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Gold Chain"
         }
     },
@@ -6407,7 +6407,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -7457,7 +7457,7 @@
             "Clothes": "Ghost Rider",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Cig"
         }
     },
@@ -7933,7 +7933,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Cig"
         }
     },
@@ -8101,7 +8101,7 @@
             "Clothes": "Vampire",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Pipe"
         }
     },
@@ -8647,7 +8647,7 @@
             "Clothes": "Black",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -8759,7 +8759,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -8857,7 +8857,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -9678,7 +9678,7 @@
         "name": "Skulls #692",
         "attributes": {
             "Background": "#99ffe7",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Black Golf",
             "Clothes": "Biker",
             "Mouth": "",
@@ -9711,7 +9711,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Mustache"
         }
     },
@@ -9753,7 +9753,7 @@
             "Clothes": "White Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -9935,7 +9935,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -10635,7 +10635,7 @@
             "Clothes": "Vampire",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Cig"
         }
     },
@@ -11223,7 +11223,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -11629,7 +11629,7 @@
             "Clothes": "Vampire",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -11792,7 +11792,7 @@
         "name": "Skulls #843",
         "attributes": {
             "Background": "#99ffdf",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Lightning Bolt",
             "Clothes": "",
             "Mouth": "Fire",
@@ -12147,7 +12147,7 @@
             "Clothes": "Ghost Rider",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -12217,7 +12217,7 @@
             "Clothes": "Ghost Rider",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -12343,7 +12343,7 @@
             "Clothes": "Biker",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -12385,7 +12385,7 @@
             "Clothes": "Biker",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -12413,7 +12413,7 @@
             "Clothes": "Biker",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -12581,7 +12581,7 @@
             "Clothes": "White Jersey",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Mustache"
         }
     },
@@ -12693,7 +12693,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Cig"
         }
     },
@@ -13001,7 +13001,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -13687,7 +13687,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -14121,7 +14121,7 @@
             "Clothes": "Ghost Rider",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Pipe"
         }
     },
@@ -14275,7 +14275,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Mustache"
         }
     },
@@ -14695,7 +14695,7 @@
             "Clothes": "Camo",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -15325,7 +15325,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Gold Chain"
         }
     },
@@ -15381,7 +15381,7 @@
             "Clothes": "Camo",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -15558,7 +15558,7 @@
         "name": "Skulls #1112",
         "attributes": {
             "Background": "#b699ff",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Green Mohawk",
             "Clothes": "Orange Jersey",
             "Mouth": "",
@@ -15815,7 +15815,7 @@
             "Clothes": "Vampire",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -16389,7 +16389,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -16515,7 +16515,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -16697,7 +16697,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -17397,7 +17397,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -17509,7 +17509,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -17607,7 +17607,7 @@
             "Clothes": "White Jersey",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -17677,7 +17677,7 @@
             "Clothes": "Black",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Gold Chain"
         }
     },
@@ -18111,7 +18111,7 @@
             "Clothes": "Camo",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -18713,7 +18713,7 @@
             "Clothes": "Ghost Rider",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -18834,7 +18834,7 @@
         "name": "Skulls #1346",
         "attributes": {
             "Background": "#99ffdd",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Black Golf",
             "Clothes": "Black",
             "Mouth": "",
@@ -19329,7 +19329,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Gold Chain"
         }
     },
@@ -20029,7 +20029,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Cig"
         }
     },
@@ -20505,7 +20505,7 @@
             "Clothes": "Black",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -21060,7 +21060,7 @@
         "name": "Skulls #1503",
         "attributes": {
             "Background": "#d899ff",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Green Mohawk",
             "Clothes": "Camo",
             "Mouth": "",
@@ -21121,7 +21121,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -21723,7 +21723,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Mustache"
         }
     },
@@ -21779,7 +21779,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -21844,7 +21844,7 @@
         "name": "Skulls #1559",
         "attributes": {
             "Background": "#bbff99",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Halo",
             "Clothes": "Biker",
             "Mouth": "Fire",
@@ -22283,7 +22283,7 @@
             "Clothes": "Vampire",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -23179,7 +23179,7 @@
             "Clothes": "White Jersey",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Pipe"
         }
     },
@@ -23417,7 +23417,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -24308,7 +24308,7 @@
         "name": "Skulls #1735",
         "attributes": {
             "Background": "#ff99e6",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Black Golf",
             "Clothes": "Orange Jersey",
             "Mouth": "",
@@ -25405,7 +25405,7 @@
             "Clothes": "Camo",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -25797,7 +25797,7 @@
             "Clothes": "White Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Pipe"
         }
     },
@@ -26259,7 +26259,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Pipe"
         }
     },
@@ -26497,7 +26497,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -26721,7 +26721,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Pipe"
         }
     },
@@ -27463,7 +27463,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Gold Chain"
         }
     },
@@ -29549,7 +29549,7 @@
             "Clothes": "Vampire",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -30067,7 +30067,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -30417,7 +30417,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -30655,7 +30655,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Pipe"
         }
     },
@@ -31280,7 +31280,7 @@
         "name": "Skulls #2233",
         "attributes": {
             "Background": "#a099ff",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Lightning Bolt",
             "Clothes": "",
             "Mouth": "",
@@ -31761,7 +31761,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Mustache"
         }
     },
@@ -31901,7 +31901,7 @@
             "Clothes": "Ghost Rider",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -31971,7 +31971,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Cig"
         }
     },
@@ -31985,7 +31985,7 @@
             "Clothes": "",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -32517,7 +32517,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -32629,7 +32629,7 @@
             "Clothes": "Vampire",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -32657,7 +32657,7 @@
             "Clothes": "Biker",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -33464,7 +33464,7 @@
         "name": "Skulls #2389",
         "attributes": {
             "Background": "#cc99ff",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Pepe",
             "Clothes": "Biker",
             "Mouth": "",
@@ -33497,7 +33497,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -33539,7 +33539,7 @@
             "Clothes": "Camo",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -33581,7 +33581,7 @@
             "Clothes": "Biker",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -34309,7 +34309,7 @@
             "Clothes": "White Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Cig"
         }
     },
@@ -34379,7 +34379,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -34463,7 +34463,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -34547,7 +34547,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Mustache"
         }
     },
@@ -34575,7 +34575,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -34785,7 +34785,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Gold Chain"
         }
     },
@@ -35695,7 +35695,7 @@
             "Clothes": "Black",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -35891,7 +35891,7 @@
             "Clothes": "Black",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -36143,7 +36143,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -37333,7 +37333,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -37697,7 +37697,7 @@
             "Clothes": "Ghost Rider",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -37809,7 +37809,7 @@
             "Clothes": "Vampire",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -38495,7 +38495,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -38523,7 +38523,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Rainbow Vomit"
         }
     },
@@ -38691,7 +38691,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -38873,7 +38873,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Cig"
         }
     },
@@ -39111,7 +39111,7 @@
             "Clothes": "Ghost Rider",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -39139,7 +39139,7 @@
             "Clothes": "White Jersey",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -39503,7 +39503,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Rainbow Vomit"
         }
     },
@@ -39680,7 +39680,7 @@
         "name": "Skulls #2841",
         "attributes": {
             "Background": "#2f3635",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Devil",
             "Clothes": "White Jersey",
             "Mouth": "",
@@ -40105,7 +40105,7 @@
             "Clothes": "Biker",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -40301,7 +40301,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Gold Chain"
         }
     },
@@ -40618,7 +40618,7 @@
         "name": "Skulls #2908",
         "attributes": {
             "Background": "#0827f5",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Green Mohawk",
             "Clothes": "Gold Hoodie",
             "Mouth": "",
@@ -41673,7 +41673,7 @@
             "Clothes": "Biker",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -42793,7 +42793,7 @@
             "Clothes": "Vampire",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -42989,7 +42989,7 @@
             "Clothes": "Ghost Rider",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -43521,7 +43521,7 @@
             "Clothes": "Camo",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -43647,7 +43647,7 @@
             "Clothes": "Biker",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Rainbow Vomit"
         }
     },
@@ -43885,7 +43885,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Gold Chain"
         }
     },
@@ -44235,7 +44235,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Cig"
         }
     },
@@ -44389,7 +44389,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -44697,7 +44697,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -44739,7 +44739,7 @@
             "Clothes": "White Jersey",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -44832,7 +44832,7 @@
         "name": "Skulls #3209",
         "attributes": {
             "Background": "Matrix",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "",
             "Clothes": "Camo",
             "Mouth": "",
@@ -45229,7 +45229,7 @@
             "Clothes": "Black",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -45691,7 +45691,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -45845,7 +45845,7 @@
             "Clothes": "Black",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Mustache"
         }
     },
@@ -46209,7 +46209,7 @@
             "Clothes": "Biker",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -46531,7 +46531,7 @@
             "Clothes": "Biker",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Cig"
         }
     },
@@ -46685,7 +46685,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -46727,7 +46727,7 @@
             "Clothes": "Vampire",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Gold Chain"
         }
     },
@@ -46918,7 +46918,7 @@
         "name": "Skulls #3358",
         "attributes": {
             "Background": "Gray Stone",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Cowboy",
             "Clothes": "White Jersey",
             "Mouth": "",
@@ -47520,7 +47520,7 @@
         "name": "Skulls #3401",
         "attributes": {
             "Background": "#2f3635",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Crown",
             "Clothes": "White Jersey",
             "Mouth": "",
@@ -47884,7 +47884,7 @@
         "name": "Skulls #3427",
         "attributes": {
             "Background": "#0827f5",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Rainbow Wig",
             "Clothes": "",
             "Mouth": "",
@@ -48897,7 +48897,7 @@
             "Clothes": "Vampire",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -49191,7 +49191,7 @@
             "Clothes": "Camo",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -49387,7 +49387,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Pipe"
         }
     },
@@ -49471,7 +49471,7 @@
             "Clothes": "White Jersey",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Pipe"
         }
     },
@@ -49513,7 +49513,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -49704,7 +49704,7 @@
         "name": "Skulls #3557",
         "attributes": {
             "Background": "#0827f5",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "White Golf",
             "Clothes": "Camo",
             "Mouth": "",
@@ -49849,7 +49849,7 @@
             "Clothes": "Ghost Rider",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -49877,7 +49877,7 @@
             "Clothes": "Black",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -50619,7 +50619,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Pipe"
         }
     },
@@ -51608,7 +51608,7 @@
         "name": "Skulls #3693",
         "attributes": {
             "Background": "#e69488",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "",
             "Clothes": "Biker",
             "Mouth": "",
@@ -52201,7 +52201,7 @@
             "Clothes": "Ghost Rider",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -52845,7 +52845,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Mustache"
         }
     },
@@ -52929,7 +52929,7 @@
             "Clothes": "White Jersey",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -53050,7 +53050,7 @@
         "name": "Skulls #3796",
         "attributes": {
             "Background": "#a7a0f3",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Crown",
             "Clothes": "Ghost Rider",
             "Mouth": "",
@@ -53433,7 +53433,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Cig"
         }
     },
@@ -53671,7 +53671,7 @@
             "Clothes": "Camo",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -53946,7 +53946,7 @@
         "name": "Skulls #3860",
         "attributes": {
             "Background": "#e69488",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Crown",
             "Clothes": "Biker",
             "Mouth": "Fire",
@@ -53979,7 +53979,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Cig"
         }
     },
@@ -54245,7 +54245,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -54315,7 +54315,7 @@
             "Clothes": "Camo",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -54539,7 +54539,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Pipe"
         }
     },
@@ -55015,7 +55015,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -56051,7 +56051,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Pipe"
         }
     },
@@ -56569,7 +56569,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Rainbow Vomit"
         }
     },
@@ -57241,7 +57241,7 @@
             "Clothes": "Vampire",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -57465,7 +57465,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -57717,7 +57717,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Gold Chain"
         }
     },
@@ -57838,7 +57838,7 @@
         "name": "Skulls #4138",
         "attributes": {
             "Background": "Matrix",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "African",
             "Clothes": "Biker",
             "Mouth": "",
@@ -58067,7 +58067,7 @@
             "Clothes": "Biker",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Pipe"
         }
     },
@@ -58473,7 +58473,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -58599,7 +58599,7 @@
             "Clothes": "Black",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -58781,7 +58781,7 @@
             "Clothes": "White Jersey",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Pipe"
         }
     },
@@ -58865,7 +58865,7 @@
             "Clothes": "Ghost Rider",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Rainbow Vomit"
         }
     },
@@ -59005,7 +59005,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -59089,7 +59089,7 @@
             "Clothes": "Biker",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Pipe"
         }
     },
@@ -59103,7 +59103,7 @@
             "Clothes": "Camo",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Cig"
         }
     },
@@ -60106,7 +60106,7 @@
         "name": "Skulls #4299",
         "attributes": {
             "Background": "#ff0e0e",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Green Mohawk",
             "Clothes": "Cape",
             "Mouth": "",
@@ -60629,7 +60629,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -61245,7 +61245,7 @@
             "Clothes": "White Jersey",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Cig"
         }
     },
@@ -61371,7 +61371,7 @@
             "Clothes": "Ghost Rider",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -61455,7 +61455,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -62253,7 +62253,7 @@
             "Clothes": "White Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -62281,7 +62281,7 @@
             "Clothes": "Biker",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -62309,7 +62309,7 @@
             "Clothes": "Camo",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -62575,7 +62575,7 @@
             "Clothes": "Biker",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -62883,7 +62883,7 @@
             "Clothes": "White Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -63275,7 +63275,7 @@
             "Clothes": "Biker",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -63443,7 +63443,7 @@
             "Clothes": "White Jersey",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -64171,7 +64171,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -64521,7 +64521,7 @@
             "Clothes": "Vampire",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Pipe"
         }
     },
@@ -65417,7 +65417,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Pipe"
         }
     },
@@ -65431,7 +65431,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -65781,7 +65781,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -66761,7 +66761,7 @@
             "Clothes": "White Jersey",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Mustache"
         }
     },
@@ -66873,7 +66873,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -66943,7 +66943,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -67190,7 +67190,7 @@
         "name": "Skulls #4805",
         "attributes": {
             "Background": "#7d7d7d",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Pepe",
             "Clothes": "Gold Hoodie",
             "Mouth": "",
@@ -67372,7 +67372,7 @@
         "name": "Skulls #4817",
         "attributes": {
             "Background": "#7d7d7d",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Party",
             "Clothes": "",
             "Mouth": "",
@@ -68987,7 +68987,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -69337,7 +69337,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -69477,7 +69477,7 @@
             "Clothes": "Ghost Rider",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -70051,7 +70051,7 @@
             "Clothes": "Vampire",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -70667,7 +70667,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -70709,7 +70709,7 @@
             "Clothes": "Ghost Rider",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -70919,7 +70919,7 @@
             "Clothes": "Vampire",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -71320,7 +71320,7 @@
         "name": "Skulls #5098",
         "attributes": {
             "Background": "Matrix",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Rainbow Wig",
             "Clothes": "Biker",
             "Mouth": "",
@@ -71479,7 +71479,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -72165,7 +72165,7 @@
             "Clothes": "Biker",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -72179,7 +72179,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Pipe"
         }
     },
@@ -72291,7 +72291,7 @@
             "Clothes": "Black",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -73187,7 +73187,7 @@
             "Clothes": "Black Jersey",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -73355,7 +73355,7 @@
             "Clothes": "Ghost Rider",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -73845,7 +73845,7 @@
             "Clothes": "White Jersey",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -73966,7 +73966,7 @@
         "name": "Skulls #5285",
         "attributes": {
             "Background": "Matrix",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "White Golf",
             "Clothes": "Gold Hoodie",
             "Mouth": "",
@@ -74139,7 +74139,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -74307,7 +74307,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Rainbow Vomit"
         }
     },
@@ -74559,7 +74559,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": "Pipe"
         }
     },
@@ -75371,7 +75371,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Gold Chain"
         }
     },
@@ -75427,7 +75427,7 @@
             "Clothes": "",
             "Mouth": "Fire",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -75889,7 +75889,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -76015,7 +76015,7 @@
             "Clothes": "Camo",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -76827,7 +76827,7 @@
             "Clothes": "Camo",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -77606,7 +77606,7 @@
         "name": "Skulls #5544",
         "attributes": {
             "Background": "#7d7d7d",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Jester",
             "Clothes": "Orange Jersey",
             "Mouth": "",
@@ -78087,7 +78087,7 @@
             "Clothes": "Camo",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -78488,7 +78488,7 @@
         "name": "Skulls #5607",
         "attributes": {
             "Background": "Gray Stone",
-            "Skull Color": "Gray",
+            "Skull Color": "",
             "Head": "Party",
             "Clothes": "Biker",
             "Mouth": "",
@@ -78647,7 +78647,7 @@
             "Clothes": "Cape",
             "Mouth": "",
             "Eyes": "Heart",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -79165,7 +79165,7 @@
             "Clothes": "White Jersey",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Cig"
         }
     },
@@ -79571,7 +79571,7 @@
             "Clothes": "",
             "Mouth": "",
             "Eyes": "Thug Life",
-            "Nose": "",
+            "Nose": "T",
             "Accessory": ""
         }
     },
@@ -80117,7 +80117,7 @@
             "Clothes": "Orange Jersey",
             "Mouth": "",
             "Eyes": "Visor Shades",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": ""
         }
     },
@@ -80313,7 +80313,7 @@
             "Clothes": "Gold Hoodie",
             "Mouth": "",
             "Eyes": "Fire",
-            "Nose": "T",
+            "Nose": "",
             "Accessory": "Cig"
         }
     },
