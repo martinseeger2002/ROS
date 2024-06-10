@@ -10,7 +10,7 @@ class PixelSelectorApp:
         self.root.title("Pixel Selector")
         self.scale_factor = 10  # Initial scale factor for display
         self.zoom_step = 1.1  # Step for zooming in and out
-        self.image_path = "./images/Skulls #1632.jpg"
+        self.image_path = "./images/Skulls #5352.jpg"
         self.original_image = Image.open(self.image_path)
         self.scaled_image = self.original_image.resize(
             (self.original_image.width * self.scale_factor, self.original_image.height * self.scale_factor), 

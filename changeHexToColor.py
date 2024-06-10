@@ -1,79 +1,97 @@
 import json
-import os
-from colorsys import rgb_to_hsv
+import webcolors
 
-# Load the JSON file
-with open('rise-of-skulls.json', 'r') as file:
-    skulls_data = json.load(file)
-
-# Define a list of 20 colors with their RGB values
-color_names = {
-    "Red": (255, 0, 0),
-    "Green": (0, 255, 0),
-    "Blue": (0, 0, 255),
-    "Yellow": (255, 255, 0),
-    "Cyan": (0, 255, 255),
-    "Magenta": (255, 0, 255),
-    "Orange": (255, 165, 0),
-    "Pink": (255, 192, 203),
-    "Purple": (128, 0, 128),
-    "Brown": (165, 42, 42),
-    "Black": (0, 0, 0),
-    "White": (255, 255, 255),
-    "Gray": (128, 128, 128),
-    "Light Blue": (173, 216, 230),
-    "Light Green": (144, 238, 144),
-    "Light Gray": (211, 211, 211),
-    "Dark Blue": (0, 0, 139),
-    "Dark Green": (0, 100, 0),
-    "Dark Gray": (169, 169, 169),
-    "Dark Red": (139, 0, 0)
+# List of common color names and their hex values
+colors = {
+    "#FFFFFF": "White",
+    "#C0C0C0": "Silver",
+    "#808080": "Gray",
+    "#000000": "Black",
+    "#FF0000": "Red",
+    "#800000": "Maroon",
+    "#FFFF00": "Yellow",
+    "#808000": "Olive",
+    "#00FF00": "Lime",
+    "#008000": "Green",
+    "#00FFFF": "Aqua",
+    "#008080": "Teal",
+    "#0000FF": "Blue",
+    "#000080": "Navy",
+    "#FF00FF": "Fuchsia",
+    "#800080": "Purple",
+    "#FFA07A": "Light Salmon",
+    "#FFA500": "Orange",
+    "#FF4500": "Orange Red",
+    "#DA70D6": "Orchid",
+    "#EEE8AA": "Pale Goldenrod",
+    "#98FB98": "Pale Green",
+    "#AFEEEE": "Pale Turquoise",
+    "#DB7093": "Pale Violet Red",
+    "#FFEFD5": "Papaya Whip",
+    "#FFDAB9": "Peach Puff",
+    "#CD853F": "Peru",
+    "#FFC0CB": "Pink",
+    "#DDA0DD": "Plum",
+    "#B0E0E6": "Powder Blue",
+    "#BC8F8F": "Rosy Brown",
+    "#4169E1": "Royal Blue",
+    "#8B4513": "Saddle Brown",
+    "#FA8072": "Salmon",
+    "#F4A460": "Sandy Brown",
+    "#2E8B57": "Sea Green",
+    "#FFF5EE": "Seashell",
+    "#A0522D": "Sienna",
+    "#C0C0C0": "Silver",
+    "#87CEEB": "Sky Blue",
+    "#6A5ACD": "Slate Blue",
+    "#708090": "Slate Gray",
+    "#FFFAFA": "Snow",
+    "#00FF7F": "Spring Green",
+    "#4682B4": "Steel Blue",
+    "#D2B48C": "Tan",
+    "#D8BFD8": "Thistle",
+    "#FF6347": "Tomato",
+    "#40E0D0": "Turquoise",
+    "#EE82EE": "Violet",
+    "#F5DEB3": "Wheat",
+    "#F5F5F5": "White Smoke",
+    "#FFFF00": "Yellow",
+    "#9ACD32": "Yellow Green",
 }
 
-# Function to convert hex to RGB
-def hex_to_rgb(hex_color):
-    if not hex_color.startswith("#") or len(hex_color) != 7:
-        raise ValueError("Invalid hex color")
-    hex_color = hex_color.lstrip('#')
-    return tuple(int(hex_color[i:i+2], 16) for i in (0, 2, 4))
-
-# Function to calculate the hue and saturation of an RGB color
-def rgb_to_hue_saturation(rgb):
-    r, g, b = [x / 255.0 for x in rgb]
-    h, s, v = rgb_to_hsv(r, g, b)
-    return h, s
-
-# Function to find the closest color name based on hue and saturation
 def closest_color_name(hex_color):
     try:
-        target_rgb = hex_to_rgb(hex_color)
+        return webcolors.hex_to_name(hex_color)
     except ValueError:
-        return None
+        min_colors = {}
+        for key in colors.keys():
+            r_c, g_c, b_c = webcolors.hex_to_rgb(hex_color)
+            r_n, g_n, b_n = webcolors.hex_to_rgb(key)
+            rd = (r_c - r_n) ** 2
+            gd = (g_c - g_n) ** 2
+            bd = (b_c - b_n) ** 2
+            min_colors[(rd + gd + bd)] = colors[key]
+        return min_colors[min(min_colors.keys())]
 
-    target_hue, target_saturation = rgb_to_hue_saturation(target_rgb)
-    
-    min_diff = float('inf')
-    closest_color = None
-    for color_name, color_rgb in color_names.items():
-        color_hue, color_saturation = rgb_to_hue_saturation(color_rgb)
-        hue_diff = abs(target_hue - color_hue)
-        saturation_diff = abs(target_saturation - color_saturation)
-        diff = hue_diff + saturation_diff
-        if diff < min_diff:
-            min_diff = diff
-            closest_color = color_name
-    return closest_color
+def change_background_color_name(entry):
+    if 'Background' in entry['attributes']:
+        value = entry['attributes']['Background']
+        if value.startswith('#'):
+            try:
+                color_name = closest_color_name(value)
+                entry['attributes']['Background'] = color_name
+            except ValueError:
+                pass
+    return entry
 
-# Iterate through each skull entry and update the Background color
-for skull in skulls_data:
-    hex_color = skull['attributes'].get('Background', '')
-    if hex_color:
-        closest_color = closest_color_name(hex_color)
-        if closest_color:
-            skull['attributes']['Background'] = closest_color
-            print(f"Updated {skull['name']} background to {closest_color}")
+def main():
+    with open('rise-of-skulls.json', 'r') as f:
+        data = json.load(f)
 
-# Save the updated JSON file
-with open('rise-of-skulls-updated.json', 'w') as file:
-    json.dump(skulls_data, file, indent=4)
+    updated_data = [change_background_color_name(entry) for entry in data]
 
+    with open('updated-rise-of-skulls.json', 'w') as f:
+        json.dump(updated_data, f, indent=4)
+
+if __name__ == "__main__":
+    main()
